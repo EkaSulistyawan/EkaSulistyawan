@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Anyway, I am so eager with coding projects! You may find the repo 汚い coz I put things like a personal diary 😅.
 
-### What you can find here? :
+### What can you find here?
 - 👀 Vision - most projects are about image analysis
 - 🧬 Bioinformatics - there are some, probably obsolete projects I did during my Bachelor's
 - 📓 Basic Data Science - at some point, dealing with a table can be refreshing!
