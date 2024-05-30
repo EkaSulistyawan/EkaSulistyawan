@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:bold;font-size:300%"> Hi there👋, Eka-です </h1> 
+<h1 align="center" style="font-weight:bold;font-size:300%"> Hi there👋, Eka</h1> 
 
 <!--
 **EkaSulistyawan/EkaSulistyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
